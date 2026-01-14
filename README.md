@@ -4,7 +4,7 @@ This repository contains the final project from *Computing Fabrics*, a course ex
 
 ## Project Overview
 
-The project is an interactive soft object that responds to touch via conductive and heat-sensitive threads embedded in fabric. Sensor input is processed by an Arduino microcontroller, which triggers an audio output when user interaction is detected.
+The project is an interactive object that responds to touch via conductive and heat-sensitive threads embedded in fabric. Sensor input is processed by an Arduino microcontroller, which triggers an audio output when user interaction is detected.
 
 The goal of the project was to explore how tactile materials can function as intuitive human–computer interfaces, combining physical craft with embedded programming.
 
@@ -20,13 +20,11 @@ The code handles sensor calibration, continuous input polling, and conditional l
 
 ## Files
 
-- `interactive_object.ino` – Arduino source code for sensor input handling and audio output
+– Arduino source code for sensor input handling and audio output
 
 ## Context
 
 This project was completed as part of coursework at MIT and reflects an early exploration of embedded systems, physical computing, and interaction design through nontraditional materials.
-
-While playful in form, the work emphasizes robust sensor handling, clear control flow, and reliable interaction logic.
 
 ## Notes
 
